@@ -18,6 +18,7 @@
   Although this sounds neat, the problem is that in order to determine friends of each person, a separate DB query is needed. When the network goes deeper than 2 levels, it would be highly time consuming algorithm.  Is there a better efficient alternative? If not, how can we add better hardware support (parallel computing, grids, distributed database etc) in order to bring down the time required for computation?
   
   [Further Reading] (http://inviqa.com/blog/2009/09/07/graphs-in-the-database-sql-meets-social-networks)
+* Design WhatsApp. Emphasis is on scalability.
 
 
 
