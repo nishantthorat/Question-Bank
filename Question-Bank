@@ -1,0 +1,4 @@
+# Questions
+
+* How can sort a really big file optimally - Standard external merge sort algorithm.
+Consider the scenario if there are Duplicates, How can we do external merge sort optimally ;)
