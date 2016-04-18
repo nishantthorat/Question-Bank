@@ -1,4 +1,4 @@
-# System Design Questions
+# System Design Question Bank
 
 * Design an airport informtion kiosk system. A central authority would provide flight data - which has a cost associated. Interactive Kiosk/TV screens
   will be installed all over airports (consider multiple airports/multiple terminals). Justify your choices - first finalizing
