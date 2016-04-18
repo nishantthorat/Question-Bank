@@ -17,4 +17,6 @@
   Consider the scenario if there are Duplicates, How can we do external merge sort optimally ;)
 * Graph - implement Breadth First Traversal, Depth First Traversal.
 * [Implement Tournament Tree.](http://www.geeksforgeeks.org/tournament-tree-and-binary-heap/)
+* Given a linkedlist of line segments, remove middle points.
+* Clone a linked list with next and random pointers.
 
