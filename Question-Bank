@@ -3,3 +3,8 @@
 * How can sort a really big file optimally - Standard external merge sort algorithm. Consider the scenario if there are Duplicates, How can we do external merge sort optimally ;)
 * Check if Binary Tree is a BST or not?
 * Find an element in an sorted rotated array without pivot, and with pivot.
+* Implement an LRU with a Trie.
+* Implement a Trie optimally.
+* Implement Dictionary.
+* Implement a function getting Substring from String, Do it optimally. 
+* Implement Strcpy function.
