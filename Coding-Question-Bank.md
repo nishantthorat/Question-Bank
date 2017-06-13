@@ -13,8 +13,6 @@
   Getmin should remove the only minimum most element from the stack optimally, rest all elements should be in stack.
 * Given a, b,c ,d,...z,aa,ab,ac...az,ba,bb...un-limited sequence like this,
   given an index number you should be able to return string in that sequence and given a string return the index.
-* How can sort a really big file optimally - Standard external merge sort algorithm.
-  Consider the scenario if there are Duplicates, How can we do external merge sort optimally ;)
 * Graph - implement Breadth First Traversal, Depth First Traversal.
 * [Implement Tournament Tree.](http://www.geeksforgeeks.org/tournament-tree-and-binary-heap/)
 * Given a linkedlist of line segments, remove middle points.
